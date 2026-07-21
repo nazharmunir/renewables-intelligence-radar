@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Add an official regulator feed",
+    "url": "https://example.org/regulator-feed.xml",
+    "source_type": "regulator",
+    "market": "Germany"
+  },
+  {
+    "name": "Add an official system operator feed",
+    "url": "https://example.org/system-operator-feed.xml",
+    "source_type": "system_operator",
+    "market": "Europe"
+  }
+]
